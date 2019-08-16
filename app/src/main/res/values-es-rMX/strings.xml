@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Juego Gato</string>
+    <string name="unJugador">1 jugador</string>
+    <string name="dosJugadores">2 jugadores</string>
+    <string name="facil">Fácil</string>
+    <string name="normal">Normal</string>
+    <string name="imposible">Imposible</string>
+    <string name="casilla">Casilla</string>
+    <string name="circulosGanan">¡Círculos ganan!</string>
+    <string name="crucesGanan">¡Cruces ganan!</string>
+    <string name="empate">¡Empate!</string>
+</resources>
